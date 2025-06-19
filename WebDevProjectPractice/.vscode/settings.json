@@ -1,3 +1,10 @@
 {
-    "livePreview.defaultPreviewPath": "/6/solution.html"
+    "livePreview.defaultPreviewPath": "/6/solution.html",
+    "editor.formatOnType": false,
+    "editor.formatOnSave": false,
+    "[html]": {
+      "editor.formatOnType": false,
+      "editor.formatOnSave": false
 }
+}
+
